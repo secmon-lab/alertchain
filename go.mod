@@ -15,7 +15,7 @@ require (
 	github.com/bradleyfalzon/ghinstallation/v2 v2.9.0
 	github.com/fatih/color v1.18.0
 	github.com/getsentry/sentry-go v0.26.0
-	github.com/go-chi/chi/v5 v5.0.11
+	github.com/go-chi/chi/v5 v5.2.2
 	github.com/google/go-github v17.0.0+incompatible
 	github.com/google/go-jsonnet v0.20.0
 	github.com/google/uuid v1.6.0
