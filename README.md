@@ -1,5 +1,8 @@
 # AlertChain
 
+> [!CAUTION]
+> This repository is already deprecated. The alert management feature for secmon-lab has been delegated to [Warren](https://github.com/secmon-lab/warren).
+
 AlertChain is a simple SOAR (Security Orchestration, Automation, and Response) framework that leverages [OPA](https://github.com/open-policy-agent/opa) (Open Policy Agent) to enhance security management.
 
 ![AlertChain Diagram](https://user-images.githubusercontent.com/605953/232273906-a3df56fb-3201-4336-b897-e327e8d49981.jpg)
